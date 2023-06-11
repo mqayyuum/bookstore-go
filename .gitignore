@@ -1,2 +1,8 @@
+# Secrets
 secret-*.txt
+
+# Environment variable
 .env
+
+# Executables
+bookstore
